@@ -1,0 +1,41 @@
+{
+    "inner_circle": [
+        {
+            "label": "Prevention",
+            "size": 5060,
+            "percentage": 57.6
+        },
+        {
+            "label": "Treatment",
+            "size": 1812,
+            "percentage": 20.6
+        },
+        {
+            "label": "Others",
+            "size": 1911,
+            "percentage": 21.8
+        }
+    ],
+    "outer_circle": [
+        {
+            "label": "Interventional\nin Prevention",
+            "size": 5060,
+            "percentage": 100.0
+        },
+        {
+            "label": "Interventional\nin Treatment",
+            "size": 0,
+            "percentage": 0.0
+        },
+        {
+            "label": "Interventional\nin Others",
+            "size": 1117,
+            "percentage": 58.5
+        },
+        {
+            "label": "Observational\nin Others",
+            "size": 794,
+            "percentage": 41.5
+        }
+    ]
+}

@@ -44,7 +44,11 @@ d3.json("pie_status_counts.json").then(function(data) {
     .on("mouseover", function(event, d) {
       d3.select(this).attr("opacity", 0.7);
       tooltip.style("visibility", "visible")
-        .html(`${d.data.overall_status}: ${((d.data.count / d3.sum(data, d => d.count)) * 100).toFixed(1)}%`)
+        .html(
+          `<strong>${d.data.overall_status}</strong><br>` +
+          `Count: ${d.data.count}<br>` +
+          `Percentage: ${((d.data.count / d3.sum(data, d => d.count)) * 100).toFixed(1)}%`
+        )
         .style("top", (event.pageY - 10) + "px")
         .style("left", (event.pageX + 10) + "px");
     })
