@@ -1,0 +1,181 @@
+{
+    "inner_circle": [
+        {
+            "label": "Phase 1",
+            "size": 1690,
+            "percentage": 24.8
+        },
+        {
+            "label": "Phase 2",
+            "size": 1385,
+            "percentage": 20.3
+        },
+        {
+            "label": "Phase 3",
+            "size": 1365,
+            "percentage": 20.0
+        },
+        {
+            "label": "Phase 4",
+            "size": 887,
+            "percentage": 13.0
+        },
+        {
+            "label": "Other Phases",
+            "size": 1495,
+            "percentage": 21.9
+        }
+    ],
+    "outer_circle": [
+        {
+            "label": "Completed",
+            "size": 1188,
+            "percentage": 70.3
+        },
+        {
+            "label": "Recruiting",
+            "size": 128,
+            "percentage": 7.6
+        },
+        {
+            "label": "Not yet recruiting",
+            "size": 151,
+            "percentage": 8.9
+        },
+        {
+            "label": "Terminated/Withdrawn",
+            "size": 126,
+            "percentage": 7.5
+        },
+        {
+            "label": "Others",
+            "size": 7,
+            "percentage": 0.4
+        },
+        {
+            "label": "Unknown",
+            "size": 90,
+            "percentage": 5.3
+        },
+        {
+            "label": "Completed",
+            "size": 940,
+            "percentage": 67.9
+        },
+        {
+            "label": "Recruiting",
+            "size": 82,
+            "percentage": 5.9
+        },
+        {
+            "label": "Not yet recruiting",
+            "size": 145,
+            "percentage": 10.5
+        },
+        {
+            "label": "Terminated/Withdrawn",
+            "size": 123,
+            "percentage": 8.9
+        },
+        {
+            "label": "Others",
+            "size": 5,
+            "percentage": 0.4
+        },
+        {
+            "label": "Unknown",
+            "size": 90,
+            "percentage": 6.5
+        },
+        {
+            "label": "Completed",
+            "size": 1027,
+            "percentage": 75.2
+        },
+        {
+            "label": "Recruiting",
+            "size": 71,
+            "percentage": 5.2
+        },
+        {
+            "label": "Not yet recruiting",
+            "size": 132,
+            "percentage": 9.7
+        },
+        {
+            "label": "Terminated/Withdrawn",
+            "size": 50,
+            "percentage": 3.7
+        },
+        {
+            "label": "Others",
+            "size": 7,
+            "percentage": 0.5
+        },
+        {
+            "label": "Unknown",
+            "size": 78,
+            "percentage": 5.7
+        },
+        {
+            "label": "Completed",
+            "size": 597,
+            "percentage": 67.3
+        },
+        {
+            "label": "Recruiting",
+            "size": 60,
+            "percentage": 6.8
+        },
+        {
+            "label": "Not yet recruiting",
+            "size": 69,
+            "percentage": 7.8
+        },
+        {
+            "label": "Terminated/Withdrawn",
+            "size": 29,
+            "percentage": 3.3
+        },
+        {
+            "label": "Others",
+            "size": 7,
+            "percentage": 0.8
+        },
+        {
+            "label": "Unknown",
+            "size": 125,
+            "percentage": 14.1
+        },
+        {
+            "label": "Completed",
+            "size": 854,
+            "percentage": 57.1
+        },
+        {
+            "label": "Recruiting",
+            "size": 145,
+            "percentage": 9.7
+        },
+        {
+            "label": "Not yet recruiting",
+            "size": 184,
+            "percentage": 12.3
+        },
+        {
+            "label": "Terminated/Withdrawn",
+            "size": 130,
+            "percentage": 8.7
+        },
+        {
+            "label": "Others",
+            "size": 16,
+            "percentage": 1.1
+        },
+        {
+            "label": "Unknown",
+            "size": 166,
+            "percentage": 11.1
+        }
+    ]
+}
